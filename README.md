@@ -1,8 +1,8 @@
-# Resume Parser
+# ATS sync AI -
 
-# Resume Parser - ATS Score, Realtime Trends, Keyword Extraction, and Resume Summarizer
+# ATS sync AI - ATS Score, Realtime Trends, Keyword Extraction, and Resume Summarizer
 
-Welcome to **Resume Parser**, a powerful web application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). This tool provides an ATS score, real-time trend analysis, keyword extraction, and a resume summarizer with actionable suggestions to improve your resume. Whether you're applying for a new job or just want to fine-tune your resume, this tool is here to help!
+Welcome to **ATS sync AI -**, a powerful web application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). This tool provides an ATS score, real-time trend analysis, keyword extraction, and a resume summarizer with actionable suggestions to improve your resume. Whether you're applying for a new job or just want to fine-tune your resume, this tool is here to help!
 
 ## Features
 
